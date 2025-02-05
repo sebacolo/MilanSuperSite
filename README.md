@@ -1,2 +1,2 @@
 # MilanSuperSite
-Sto del MILAN creato da: Sebastiano Colombo, Davide Luraghi e Andrea Gatti
+Sito del MILAN creato da: Sebastiano Colombo, Davide Luraghi e Andrea Gatti
